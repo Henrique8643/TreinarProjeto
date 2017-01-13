@@ -3,7 +3,7 @@ package br.com.treinar.operadores;
 public class Divisao {
 	public static void main(String[] args) {
 		
-	
+	int g = 4;
 	int i = 10;
 	int j = 8;
 	float resultado = i / j;
