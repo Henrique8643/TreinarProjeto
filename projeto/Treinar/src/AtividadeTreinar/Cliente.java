@@ -1,4 +1,4 @@
-package br.com.HenriqueSoftware;
+package AtividadeTreinar;
 
 import java.util.Date;
 

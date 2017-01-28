@@ -1,4 +1,7 @@
-package AtividadeTreinar;
+package Testando_Codigo;
+
+import AtividadeTreinar.Cachorro;
+import AtividadeTreinar.Gato;
 
 public class TesteClasses {
 	public static void main(String[] args) {

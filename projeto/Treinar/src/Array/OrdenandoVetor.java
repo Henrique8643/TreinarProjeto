@@ -1,4 +1,4 @@
-package AtividadeTreinar;
+package Array;
 
 public class OrdenandoVetor {
 

@@ -1,4 +1,4 @@
-package br.com.treinar.ChamarClasses;
+package AtividadeTreinar;
 
 public class Pessoa {
 	

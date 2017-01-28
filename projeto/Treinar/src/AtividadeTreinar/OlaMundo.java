@@ -1,4 +1,4 @@
-package br.com.treinar.modelo;
+package AtividadeTreinar;
 
 public class OlaMundo {
 	public static void main(String[] args) {

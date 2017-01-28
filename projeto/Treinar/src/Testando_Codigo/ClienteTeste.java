@@ -1,4 +1,6 @@
-package br.com.HenriqueSoftware;
+package Testando_Codigo;
+
+import AtividadeTreinar.Cliente;
 
 public class ClienteTeste {   // Acessando os dados da classe cliente que se encontra privada.
 	public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package AtividadeTreinar;
 
 public class CarroEquals {
 	

@@ -1,4 +1,7 @@
+package Testando_Codigo;
 import java.util.Scanner;
+
+import AtividadeTreinar.CarroEquals;
 
 public class TesteCarro {
 	

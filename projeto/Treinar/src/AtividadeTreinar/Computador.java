@@ -1,4 +1,4 @@
-package br.com.treinar.modelo;
+package AtividadeTreinar;
 
 public class Computador {
 	int quantidade;
