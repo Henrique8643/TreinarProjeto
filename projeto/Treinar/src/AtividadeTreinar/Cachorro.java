@@ -2,9 +2,9 @@ package AtividadeTreinar;
 
 public class Cachorro {
 	
-	String nome;
-	String raca;
-	int numeroPatas;
+	private String nome;
+	private String raca;
+	private int numeroPatas;
 	
 	
 	@Override
